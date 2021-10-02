@@ -15,7 +15,7 @@ body{
   /* overflow: hidden; */
   padding: 10px;
   background-image: url('./hamu.gif');
-  background-repeat: no-repeat;
+  background-repeat: repeat-x;
 }
 .wrapper{
   background: #fff;
